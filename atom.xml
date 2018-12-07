@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://zhifanwu.github.io/"/>
   <updated>2018-12-07T09:06:35.669Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://zhifanwu.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Zhi-Fan Wu</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/12/07/hello-world/"/>
-    <id>http://yoursite.com/2018/12/07/hello-world/</id>
+    <link href="http://zhifanwu.github.io/2018/12/07/hello-world/"/>
+    <id>http://zhifanwu.github.io/2018/12/07/hello-world/</id>
     <published>2018-12-07T09:06:35.669Z</published>
     <updated>2018-12-07T09:06:35.669Z</updated>
     
